@@ -64,7 +64,11 @@ T. Meissner, and F. Wentz,
 IEEE Transactions on Geoscience and Remote Sensing, vol 50 (8), 3004-3026, doi: 10.1109/TGRS.2011.2179662, 2012. 
 
 
- Release Notes:
+The code ahs been tested on Intel(R) Parallel Studio XE 2011 Update 1 Copyright (C) 1985-2011 Intel Corporation. All rights reserved.
+Intel(R) Composer XE 2011 Update 4 (package 196), 32-bit and 64-bit compilers.
+It should be portable to gfortran.
+
+Release Notes:
 
  The following changes/updates from [MW 2012] are contained in the code.
  1. dielectric_meissner_wentz: Typo (sign) in the printed version of coefficient d3 in Table 7. Its value should be -0.35594E-06.
