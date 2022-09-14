@@ -50,11 +50,12 @@ Remote Sensing Systems Ocean Surface Emissivity Model 6 - 90 GHz
 2. RSS_RTM__module.f90: FORTRAN 90 module for computing ocean surface emissivity at microwave frequencies.
 3. RSS_RTM_driver.f90:  FORTRAN 90 sample driver.
 4. control_output.txt:  Sample control output created by driver routine. Part of GitHub Release.
-5. external_files:      4 external ASCII files (tables). Part of GitHub Release. 
-                        finetune_emiss_wind.txt
-                        fit_emiss_phir_wind.txt   
-                        mk_scatterm_table_all.txt
-                        em0_ref_freq_sst.txt
+5. external_files:      4 external files (tables). Part of GitHub Release. 
+                        finetune_emiss_wind.txt:   ASCII
+                        fit_emiss_phir_wind.txt:   ASCII
+                        em0_ref_freq_sst.txt:      ASCII
+                        mk_scatterm_table_all.dat: raw binary
+                        
 
 6. meissner_wentz_TGRS_2012.pdf. Part of GitHub Release.
 [MW 2012]:   
