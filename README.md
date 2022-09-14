@@ -54,7 +54,7 @@ Remote Sensing Systems Ocean Surface Emissivity Model 6 - 90 GHz
                         finetune_emiss_wind.txt:   ASCII
                         fit_emiss_phir_wind.txt:   ASCII
                         em0_ref_freq_sst.txt:      ASCII
-                        mk_scatterm_table_all.dat: raw binary
+                        mk_scatterm_table_all.zip: ASCII zipped
                         
 
 6. meissner_wentz_TGRS_2012.pdf. Part of GitHub Release.
